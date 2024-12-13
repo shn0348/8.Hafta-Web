@@ -1,0 +1,23 @@
+0- Slayttı tekrar et
+1- Div Anlat(Resimler)
+2- U1 yap
+3- U2 Yaptır.
+4- id seçici Anlat
+5- U3 Yap.
+6- U4 Yaptır.
+7- Class Seçici anlat.
+8- U5 yap
+9- U6 Yaptır.
+10- Çoklu(multiple) seçiçileri anlat.
+11- U7 yap
+12- U8 Yaptır.
+13- U9 yaptır-Yap
+14- Sözde (Pseudo) Sınıf Seçiciler
+15- U10 yap
+16- U11 Yaptır.
+
+
+
+
+
+

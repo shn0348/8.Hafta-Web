@@ -1,0 +1,14 @@
+1- Slayt anlat.
+2- Css ekleme satıriçi anlat.
+3- U1 yaptır.
+4- Css ekleme dahili anlat.
+5- U2 yaptır.
+6- Css ekleme harici anlat
+7- U3 yaptır.
+7- Css önceliği anlat
+8- Slayt2 anlat
+9-U4 yap (etiket seçici anlatarak-dahili css)
+10-U5 yaptır.
+11-U6 yap (id(kimlik) seçici anlatarak-harici css)
+12-U7 Yaptır.
+

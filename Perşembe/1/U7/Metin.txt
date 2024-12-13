@@ -1,0 +1,10 @@
+<p>
+	<b>Program</b>, herhangi bir elektronik cihaza bir işlem yaptırmak için yazılan komutlar dizisidir.
+</p>
+<b>Elektronik cihazlar;</b>
+<ul>
+<li>Bilgisayar</li>
+<li>Cep telefonu</li>
+<li>Tablet</li>
+<li>Elektronik ev aletleri vb.</li>
+</ul>

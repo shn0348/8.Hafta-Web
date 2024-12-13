@@ -1,0 +1,9 @@
+body{
+	background-color:purple;
+}
+p, ul, b
+{
+ font-size:16px;
+ color:white; 
+ width:300px;
+}
